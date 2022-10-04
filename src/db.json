@@ -1,18 +1,8 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "json-server",
-            "author": "typicode"
-        }
-    ],
-    "todos": [
-        {
-            "id": 1,
-            "todo": "Milch kaufen"
-        }
-    ],
-    "profile": {
-        "name": "typicode"
+  "todos": [
+    {
+      "todo": "Hund füttern",
+      "id": 10
     }
+  ]
 }
